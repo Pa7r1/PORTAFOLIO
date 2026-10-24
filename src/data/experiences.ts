@@ -112,8 +112,8 @@ export const experiences: Experience[] = [
   },
   {
     period: {
-      es: "Jul 2024\nNov 2025",
-      en: "Jul 2024\nNov 2025",
+      es: "Ago 2025\nNov 2025",
+      en: "Aug 2025\nNov 2025",
     },
     title: {
       es: "Full Stack Developer · trabajo en equipo",
@@ -121,8 +121,8 @@ export const experiences: Experience[] = [
     },
     company: "Modex · La Rioja",
     description: {
-      es: "Dieciséis meses construyendo la tienda online de un negocio de hardware junto a otros siete desarrolladores, sobre un mismo repositorio: 53 de los 465 commits son míos. Trabajé la capa de datos: la normalización del esquema, la carga masiva del catálogo —que llevó al dueño de escribir cada producto a mano a subir un archivo— y el pase de las consultas sueltas del servidor a procedimientos almacenados. Es donde aprendí a leer código ajeno antes de tocarlo y a resolver conflictos sin pisar el trabajo de otro.",
-      en: "Sixteen months building a hardware business's online store alongside seven other developers on one shared repository: 53 of its 465 commits are mine. I worked the data layer: normalizing the schema, bulk catalog loading — which took the owner from typing every product by hand to uploading a file — and moving the server's loose queries into stored procedures. It's where I learned to read other people's code before touching it and to resolve conflicts without stepping on someone else's work.",
+      es: "Tres meses sobre la tienda online de un negocio de hardware, en un repositorio compartido que ya llevaba un año de vida y lo sostenían otros seis desarrolladores: 53 de sus 465 commits son míos. Trabajé la carga masiva del catálogo —que llevó al dueño de escribir cada producto a mano a subir un archivo—, la gestión de usuarios y roles, y el esquema de datos sobre el que corría. Es donde aprendí a leer código ajeno antes de tocarlo y a resolver conflictos sin pisar el trabajo de otro: integré trece pull requests.",
+      en: "Three months on a hardware business's online store, in a shared repository that was already a year old and maintained by six other developers: 53 of its 465 commits are mine. I worked on bulk catalog loading — which took the owner from typing every product by hand to uploading a file —, user and role management, and the data schema it ran on. It's where I learned to read other people's code before touching it and to resolve conflicts without stepping on someone else's work: I landed thirteen pull requests.",
     },
     tags: ["Node.js", "Express", "MySQL", "React", "Redux Toolkit", "MercadoPago", "Git"],
     type: "work",
@@ -132,8 +132,8 @@ export const experiences: Experience[] = [
   },
   {
     period: {
-      es: "Mar 2024\nPresente",
-      en: "Mar 2024\nPresent",
+      es: "Mar 2026\nSep 2026",
+      en: "Mar 2026\nSep 2026",
     },
     title: {
       es: "Full Stack Developer",

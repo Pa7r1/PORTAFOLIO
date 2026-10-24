@@ -7,7 +7,7 @@ Las capturas viven optimizadas en `public/captures/<slug>/*.webp` y se muestran 
 - **el carrusel** de la página de detalle (`/projects/<slug>`, campo `detail.screenshots`).
 
 Las imágenes se sirven siempre vía `asset("captures/...")` para que funcionen en local
-y en GitHub Pages (base `/PORFOLIO/`).
+y en GitHub Pages (base `/PORTAFOLIO/`).
 
 ---
 

@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react()],
   // Para GitHub Pages: cambiá "portfolio" por el nombre de tu repo
   // Si usás un dominio custom o repo con tu username (tu-usuario.github.io), poné base: "/"
-  base: "/PORFOLIO/",
+  base: "/PORTAFOLIO/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

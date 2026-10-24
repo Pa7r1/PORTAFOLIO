@@ -11,12 +11,12 @@ export const projects: Project[] = [
     accent: "#b4552f",
     title: "Modex — E-commerce",
     tagline: {
-      es: "16 meses sobre un repositorio compartido con otros desarrolladores",
-      en: "16 months on a shared repository with other developers",
+      es: "53 de los 465 commits de un repositorio compartido por siete desarrolladores",
+      en: "53 of the 465 commits in a repository shared by seven developers",
     },
     description: {
-      es: "Tienda online de hardware construida varios desarrolladores. Mi parte fue la capa de datos: normalizar el esquema, la carga masiva del catálogo y las consultas del servidor.",
-      en: "Online hardware store built by eight developers. My part was the data layer: normalizing the schema, bulk catalog loading and the server's queries.",
+      es: "Tienda online de hardware construida por siete desarrolladores. Mi parte fue la carga masiva del catálogo, la gestión de usuarios y roles, y el esquema de datos.",
+      en: "Online hardware store built by seven developers. My part was bulk catalog loading, user and role management, and the data schema.",
     },
     image: asset("captures/modex-ecommerce/card.webp"),
     technologies: [
@@ -34,8 +34,8 @@ export const projects: Project[] = [
       year: 2025,
       status: "production",
       summary: {
-        es: "Modex vende accesorios y componentes de hardware. Su tienda online la construimos varios desarrolladores sobre un mismo repositorio, entre julio de 2024 y noviembre de 2025. Es lo más parecido a trabajar en una empresa que hice hasta ahora: código que no escribí yo, decisiones que se discuten y un repositorio donde tu commit le puede arruinar la tarde a otro. De los 465 commits del repositorio, 53 son míos.",
-        en: "Modex sells computer hardware and accessories. Eight of us built their online store on one shared repository, between July 2024 and November 2025. It's the closest thing to working at a company I've done so far: code I didn't write, decisions that get argued over, and a repository where your commit can ruin someone else's afternoon. Of the repository's 465 commits, 53 are mine.",
+        es: "Modex vende accesorios y componentes de hardware. Su tienda online la construyeron siete desarrolladores sobre un mismo repositorio, entre julio de 2024 y noviembre de 2025. Entré en agosto de 2025 y trabajé los últimos tres meses del proyecto. Es lo más parecido a trabajar en una empresa que hice hasta ahora: código que no escribí yo, decisiones que se discuten y un repositorio donde tu commit le puede arruinar la tarde a otro. De los 465 commits del repositorio, 53 son míos.",
+        en: "Modex sells computer hardware and accessories. Seven developers built their online store on one shared repository, between July 2024 and November 2025. I joined in August 2025 and worked the project's final three months. It's the closest thing to working at a company I've done so far: code I didn't write, decisions that get argued over, and a repository where your commit can ruin someone else's afternoon. Of the repository's 465 commits, 53 are mine.",
       },
       problem: {
         es: "El dueño cargaba a mano cada producto con todos sus datos: nombre, precio, características. Con un catálogo de miles de artículos que cambian de precio seguido, eso no se sostenía. Del otro lado, las consultas al servidor habían crecido sin orden y la misma pregunta a la base estaba escrita de cinco formas distintas según quién la hubiera resuelto ese día.",
@@ -73,8 +73,8 @@ export const projects: Project[] = [
           en: "The server's queries ended up as stored procedures in MySQL, with a single definition per query.",
         },
         {
-          es: "53 commits míos sobre los 465 del repositorio, entre ocho desarrolladores, de julio de 2024 a noviembre de 2025.",
-          en: "53 commits of mine out of the repository's 465, across eight developers, from July 2024 to November 2025.",
+          es: "53 commits míos sobre los 465 del repositorio, entre siete desarrolladores, de agosto a noviembre de 2025.",
+          en: "53 commits of mine out of the repository's 465, across seven developers, from August to November 2025.",
         },
       ],
       learnings: {

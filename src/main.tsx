@@ -13,7 +13,7 @@ createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <ThemeProvider>
       <LocaleProvider>
-        <BrowserRouter basename="/PORFOLIO/">
+        <BrowserRouter basename="/PORTAFOLIO/">
           <Suspense fallback={null}>
             <Routes>
               <Route path="/" element={<App />} />

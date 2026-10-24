@@ -9,7 +9,9 @@ export const personalInfo: PersonalInfo = {
   },
   yearsExperience: 3,
   productionSystems: 3,
-  teamMonths: 16,
+  // Meses propios en el repositorio compartido de Modex: ago 2025 a nov 2025.
+  // El repositorio vivio 16 meses; la participacion propia fueron 3.
+  teamMonths: 3,
   profileImage: "foto-curriculum.jpeg",
   email: "valentincarpio32@gmail.com",
   linkedin: "https://www.linkedin.com/in/patricio-valentin-carpio-6a602327b/",

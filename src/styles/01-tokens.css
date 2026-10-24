@@ -14,14 +14,14 @@
    Se sirven desde el propio dominio: sin petición a Google Fonts. */
 @font-face {
   font-family: "Clash Display";
-  src: url("/PORFOLIO/fonts/clash-display.woff2") format("woff2");
+  src: url("/PORTAFOLIO/fonts/clash-display.woff2") format("woff2");
   font-weight: 200 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Switzer";
-  src: url("/PORFOLIO/fonts/switzer.woff2") format("woff2");
+  src: url("/PORTAFOLIO/fonts/switzer.woff2") format("woff2");
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
